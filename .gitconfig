@@ -1,7 +1,0 @@
-[user]
-	name = Samvel6
-	email = samvel.saroukhanyan@gmail.com
-[pull]
-	rebase = false
-[init]
-	defaultBranch = main
